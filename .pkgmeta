@@ -1,4 +1,6 @@
 package-as: GetInfoLink
 
+enable-toc-creation: yes
+
 ignore:
  - .github
