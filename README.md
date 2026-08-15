@@ -1,5 +1,10 @@
 # GetInfoLink
 
+> [!IMPORTANT]
+> **This project is currently under low development and maintenance due to personal circumstances.**
+>
+> Issues and pull requests may receive delayed responses. Thank you for your understanding.
+
 This addon is designed to provide ID to query game information and generate in-game links.
 
 Currently supported query things:
